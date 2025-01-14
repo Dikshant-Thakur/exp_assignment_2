@@ -44,5 +44,9 @@ ros2 run plansys2_patrol_navigation_example patrolling_controller_node
 ros2 run experimental exp2.py
 ```
 
+## Note
+Occasionally, the navigation server may crash during execution. If this happens, ensure to turn off all running nodes and processes, then restart the entire setup from the beginning.
+
+Make sure to execute the commands in the specified sequence to avoid errors.
 
 

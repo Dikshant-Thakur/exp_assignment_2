@@ -45,8 +45,11 @@ ros2 run experimental exp2.py
 ```
 
 ## Note
-Occasionally, the navigation server may crash during execution. If this happens, ensure to turn off all running nodes and processes, then restart the entire setup from the beginning.
+- Occasionally, the navigation server may crash during execution.  
+- If this happens:  
+  - Turn off all running nodes and processes.  
+  - Restart the entire setup from the beginning.  
+- Ensure that all commands are executed in the specified sequence to avoid errors.
 
-Make sure to execute the commands in the specified sequence to avoid errors.
 
 

@@ -39,6 +39,10 @@ ros2 launch plansys2_patrol_navigation_example patrol_example_fakesim_launch.py
 ``` bash
 ros2 run plansys2_patrol_navigation_example patrolling_controller_node
 ```
+6. To run the Arurco script, from which the robot uses the OpenCV library to detect the marker
+ ``` bash
+ros2 run experimental exp2.py
+```
 
 
 

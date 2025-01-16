@@ -57,7 +57,13 @@ ros2 run experimental exp2.py
 - If this happens:  
   - Turn off all running nodes and processes.  
   - Restart the entire setup from the beginning.
-  - Try to modify the marker points. 
+  - Try to modify the marker points.
+  - Try this command
+    ``` bash
+    ros2 launch nav2_bringup bringup_launch.py map:=/<give_your_path>/src/exp_assignment_2/navigation2/nav2_bringup/maps/map.yaml
+    ```
+    instead of the aforementioned navigation command. 
+
 
 - Ensure that all commands are executed in the specified sequence to avoid errors.
 

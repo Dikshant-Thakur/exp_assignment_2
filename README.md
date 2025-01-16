@@ -60,7 +60,7 @@ ros2 run experimental exp2.py
   - Try to modify the marker points.
   - Try this command
     ``` bash
-    ros2 launch nav2_bringup bringup_launch.py map:=/<give_your_path>/src/exp_assignment_2/navigation2/nav2_bringup/maps/map.yaml
+    ros2 launch nav2_bringup navigation_launch.py map:=/<give_your_path>/src/exp_assignment_2/navigation2/nav2_bringup/maps/map.yaml
     ```
     instead of the aforementioned navigation command. 
 

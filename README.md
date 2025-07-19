@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/b835a7b5-493d-42aa-85c6-36d9961123f6
 
 # Assignment 2 ROS Package
 
-This repository contains the ROS 2 package developed for Assignment 2, which enables a mobile robot to autonomously navigate to the waypoint corresponding to the lowest ID marker in a predefined environment.
+This repository contains the ROS 2 package developed for Assignment 2, which enables a mobile robot to autonomously navigate to the waypoint and in the end, the robot has to go to the lowest ID marker in a predefined environment.
 
 
 ## Overview
